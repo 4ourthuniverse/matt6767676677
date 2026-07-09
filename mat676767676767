@@ -1,17 +1,43 @@
+<!DOCTYPE html>
 <html>
+<head>
+    <title>Student Information</title>
+    <style>
+        body {
+            background-color: #6BAED6;
+            margin: 0;
+            text-align: center;
+            font-style: italic;
+            color: #E4D5B4;
+            font-size: 45px;
+        }
+
+        h1 {
+            background-color: #4C3228;
+            color: #E4D5B4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .info {
+            background-color: #4C3228;
+            display: inline-block;
+            padding: 20px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
 <body>
 
-<h1><center>STUDENT INFORMATION</center></h1>
+    <h1>STUDENT INFORMATION</h1>
 
-<br>
-<center>
+    <div class="info">
+        <p>Name: Your Name</p>
+        <p>Age: Your Age</p>
+        <p>Grade Level: Your Grade</p>
+        <p>School: Your School</p>
+    </div>
 
-<img src="https://imgur.com/kybjoLg.jpg" alt= "STUDENT PHOTO" heigth="500" width= "200">
-    
-    <b><p>Yannah Sofia M. Atienza</p></b>
-    <b><p>Year And Section:</b> Grade 9 - Galatians</p>
-    <p><b>Birth Date:</b> April 21, 2012</p>
-    <p><b>Age:</b> 14</p>
-    <p><b>Address:</b> Blk 1 Lot 17 San Lucas Subdivision, Mambog 2, Perpetual Village 7, Bacoor, Cavite</p>
-</center>
-<br>
+</body>
+</html>
