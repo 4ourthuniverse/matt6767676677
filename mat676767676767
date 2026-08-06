@@ -19,9 +19,9 @@ border: 10px solid #E4D5B4}
 
 h3 {background-color: #4C3228;
 color: #E4D5B4;
-margin:50px
+margin:50px;
 padding: 50px;
-border; 10px solid #E4D5B4}
+border: 10px solid #E4D5B4;}
 
 p {background-color: #4C3228;
 margin: 10px;
